@@ -54,6 +54,6 @@ Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android De
 *  **[ML Demand Forecasting & Price Optimization](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
   * **Stack:** Python, LightGBM, Pandas, SciPy, Matplotlib.
   * **Details:** An ML system designed to predict sales volume and optimize product pricing. Includes complex feature engineering (lags, rolling means), handling of outliers, and mathematical optimization for revenue maximization.
-*  **[Smart Planner](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
+*  **[Smart Planner](https://github.com/Icecreemka/MyPlannerApp)**
   * **Stack:** Kotlin, Jetpack Compose, SQLite, MVVM.
   * **Details:** An Android application for flexible time management featuring dynamic schedule recalculation, drag-and-drop support, and custom time-slot distribution logic.
