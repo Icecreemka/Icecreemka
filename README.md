@@ -18,13 +18,16 @@
 Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android Development**. I am passionate about building intuitive user interfaces and making data drive real business value. The combination of these skills helps me to create good interfaces and integrate different ML models into apps. But I still can do both of them and continue learning new information and develop existing skills.
 
 ### 𓆏 Machine Learning & Data Science 𓆏
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Core** | Python • Pandas • NumPy • SciPy |
-| **Machine Learning** | Scikit-Learn • LightGBM |
+| **Deep Learning** | PyTorch • torchvision • Hugging Face `datasets` |
+| **Neural Network Architectures** | MLP (BatchNorm, Dropout) • RNN • LSTM • GRU • Bidirectional & Deep (stacked) RNNs |
+| **NLP** | Tokenization • Vocabulary Building • Word Embeddings • Padding Strategies |
+| **Classical ML** | Scikit-Learn • LightGBM • Random Forest |
+| **Experiment Tracking** | MLflow |
 | **Data Visualization** | Matplotlib • Seaborn |
-| **Concepts & Techniques** | Time-Series Forecasting • EDA • Feature Engineering • Dynamic Pricing |
+| **Concepts & Techniques** | Time-Series Forecasting • EDA • Feature Engineering • Dynamic Pricing • Gradient Clipping • Model Comparison & Error Analysis |
 
 <br>
 
@@ -51,7 +54,7 @@ Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android De
 
 ###  𓆏 Featured Projects 𓆏
 
-*  **[ML Demand Forecasting & Price Optimization](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
+*  **[ML Demand Forecasting & Price Optimization](https://github.com/Icecreemka/PriceModel)**
   * **Stack:** Python, LightGBM, Pandas, SciPy, Matplotlib.
   * **Details:** An ML system designed to predict sales volume and optimize product pricing. Includes complex feature engineering (lags, rolling means), handling of outliers, and mathematical optimization for revenue maximization.
 *  **[Smart Planner](https://github.com/Icecreemka/MyPlannerApp)**
