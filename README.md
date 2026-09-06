@@ -13,11 +13,11 @@
 
 <br>
 
-### About me
+### 𓆏 About me 𓆏
 
 Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android Development**. I am passionate about building intuitive user interfaces and making data drive real business value. The combination of these skills helps me to create good interfaces and integrate different ML models into apps. But I still can do both of them and continue learning new information and develop existing skills.
 
-### Machine Learning & Data Science
+### 𓆏 Machine Learning & Data Science 𓆏
 
 | Category | Technologies |
 | :--- | :--- |
@@ -28,7 +28,7 @@ Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android De
 
 <br>
 
-###  Android Development
+###  𓆏 Android Development 𓆏
 
 | Category | Technologies |
 | :--- | :--- |
@@ -40,7 +40,7 @@ Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android De
 
 <br>
 
-###  Core Engineering & Tools
+###  𓆏 Core Engineering & Tools 𓆏
 
 | Category | Technologies |
 | :--- | :--- |
@@ -49,7 +49,7 @@ Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android De
 | **Version Control** | Git • GitHub • Github Actions • Feature-Branch Workflow • Pull Requests |
 | **Design & Prototyping** | Figma • Vector Graphics • UI/UX Prototyping |
 
-###  Featured Projects
+###  𓆏 Featured Projects 𓆏
 
 *  **[ML Demand Forecasting & Price Optimization](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
   * **Stack:** Python, LightGBM, Pandas, SciPy, Matplotlib.
