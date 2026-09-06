@@ -1,18 +1,23 @@
 <div align="center">
+  <img src="welcome-sparkle.gif" alt="Welcome to my profile!" width="500" />
+  
+  <br>
+  
   <img src="https://media1.tenor.com/m/3ymk3wPLjUwAAAAd/toad.gif" width="120" alt="Animated Frog" />
   
-  # Welcome to my profile! 🐸
+  <br><br>
 
-  <a href="https://t.me/ВАШ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://instagram.com/ВАШ_ИНСТАГРАМ"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://t.me/icecreemka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://instagram.com/icecreemka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 <br>
 
-Hi, I'm Ulyana! 👋
-I am a Junior Developer with a solid engineering foundation, bridging the gap between **Machine Learning** and **Android Development**. I am currently studying Applied Mathematics and Computer Science at Belarusian State University (BSU). I am passionate about building intuitive user interfaces and making data drive real business value.
+### About me
 
-### 🤖 Machine Learning & Data Science
+Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android Development**. I am passionate about building intuitive user interfaces and making data drive real business value. The combination of these skills helps me to create good interfaces and integrate different ML models into apps. But I still can do both of them and continue learning new information and develop existing skills.
+
+### Machine Learning & Data Science
 
 | Category | Technologies |
 | :--- | :--- |
@@ -23,7 +28,7 @@ I am a Junior Developer with a solid engineering foundation, bridging the gap be
 
 <br>
 
-### 📱 Android Development
+###  Android Development
 
 | Category | Technologies |
 | :--- | :--- |
@@ -35,20 +40,20 @@ I am a Junior Developer with a solid engineering foundation, bridging the gap be
 
 <br>
 
-### 🛠 Core Engineering & Tools
+###  Core Engineering & Tools
 
 | Category | Technologies |
 | :--- | :--- |
 | **Programming Languages** | C++ (Modern standards, OOP) |
 | **Databases** | SQL • Relational Database Design |
-| **Version Control** | Git • GitHub • Feature-Branch Workflow • Pull Requests |
+| **Version Control** | Git • GitHub • Github Actions • Feature-Branch Workflow • Pull Requests |
 | **Design & Prototyping** | Figma • Vector Graphics • UI/UX Prototyping |
 
-### 📂 Featured Projects
+###  Featured Projects
 
-* 📈 **[ML Demand Forecasting & Price Optimization](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
+*  **[ML Demand Forecasting & Price Optimization](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
   * **Stack:** Python, LightGBM, Pandas, SciPy, Matplotlib.
   * **Details:** An ML system designed to predict sales volume and optimize product pricing. Includes complex feature engineering (lags, rolling means), handling of outliers, and mathematical optimization for revenue maximization.
-* 📱 **[Smart Planner](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
-  * **Stack:** Kotlin, Jetpack Compose, SQLite/Room, MVVM.
+*  **[Smart Planner](ССЫЛКА_НА_РЕПОЗИТОРИЙ)**
+  * **Stack:** Kotlin, Jetpack Compose, SQLite, MVVM.
   * **Details:** An Android application for flexible time management featuring dynamic schedule recalculation, drag-and-drop support, and custom time-slot distribution logic.
