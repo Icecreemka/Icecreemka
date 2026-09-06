@@ -29,14 +29,14 @@ Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android De
 <br>
 
 ###  𓆏 Android Development 𓆏
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Frameworks**| Kotlin • Java (Basic) • Android SDK |
-| **Architecture & Patterns**| MVVM • State Management |
-| **UI & Layout** | Jetpack Compose • XML Layouts • Declarative UI |
-| **Data & Persistence** | SQLite • Room |
-| **Concurrency** | Coroutines • Flow |
+| **Architecture & Patterns**| MVVM • Repository Pattern • State Management |
+| **UI & Layout** | Jetpack Compose • Navigation Compose • Custom Canvas Drawing & Animations • XML Layouts • Declarative UI |
+| **Data & Persistence** | Room • SQLite • DataStore Preferences • Gson (custom TypeConverters) |
+| **Concurrency & Reactivity** | Coroutines • Flow • StateFlow |
+| **System Integration** | AlarmManager (exact alarms) • Notifications • BroadcastReceivers • Boot-persistent Scheduling |
 
 <br>
 
