@@ -6,8 +6,8 @@
   <img src="https://media1.tenor.com/m/3ymk3wPLjUwAAAAd/toad.gif" width="120" alt="Animated Frog" />
   
   <br><br>
-  <a href="https://t.me/icecreemka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://instagram.com/icecreemka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://t.me/icecreemka"><img src="https://img.shields.io/badge/Telegram-006400?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://instagram.com/icecreemka"><img src="https://img.shields.io/badge/Instagram-228B22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 <br>
 
