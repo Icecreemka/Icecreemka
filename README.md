@@ -12,7 +12,7 @@
 <br>
 
 ### 𓆏 About me 𓆏
-Hi, I'm Ulyana! I am a Junior Developer in **Machine Learning** and **Android Development**. I am passionate about building intuitive user interfaces and making data drive real business value. The combination of these skills helps me to create good interfaces and integrate different ML models into apps. But I still can do both of them and continue learning new information and develop existing skills.
+Hi, I'm Ulyana! I'm a Junior Developer split between **Machine Learning** and **Android Development** — I like the mix of hard numbers and pixel-perfect UI. On the ML side, I build forecasting and NLP models from scratch (PyTorch, LightGBM, RNNs); on the Android side, I design and build full Compose apps, from the data layer to custom animations. I'm always learning — right now that means going deeper into both deep learning and app architecture, with an eye toward eventually bringing ML models directly into the apps I build.
 
 ### 𓆏 Machine Learning & Data Science 𓆏
 | Category | Technologies |
