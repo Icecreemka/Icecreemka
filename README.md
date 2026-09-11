@@ -34,8 +34,9 @@ Hi, I'm Ulyana! I'm a Junior Developer split between **Machine Learning** and **
 | **Architecture & Patterns**| MVVM • Repository Pattern • State Management |
 | **UI & Layout** | Jetpack Compose • Navigation Compose • Custom Canvas Drawing & Animations • XML Layouts • Declarative UI |
 | **Data & Persistence** | Room • SQLite • DataStore Preferences • Gson (custom TypeConverters) |
+| **Networking & Media** | Retrofit • OkHttp • Coil |
 | **Concurrency & Reactivity** | Coroutines • Flow • StateFlow |
-| **System Integration** | AlarmManager (exact alarms) • Notifications • BroadcastReceivers • Boot-persistent Scheduling |
+| **System Integration** | AlarmManager (exact alarms) • WorkManager • Notifications • BroadcastReceivers • Boot-persistent Scheduling • Location Services (FusedLocationProviderClient) |
 <br>
 
 ###  𓆏 Core Engineering & Tools 𓆏
@@ -53,6 +54,9 @@ Hi, I'm Ulyana! I'm a Junior Developer split between **Machine Learning** and **
 *  **[RNN Text Classification (IMDB Sentiment Analysis)](https://github.com/Icecreemka/RnnSentiment)**
   * **Stack:** Python, PyTorch, Hugging Face Datasets, MLflow.
   * **Details:** A from-scratch comparison of sequence models — RNN, LSTM, GRU, bidirectional, and stacked LSTM — against a mean-pooling baseline for binary sentiment classification, with experiment tracking in MLflow and qualitative error analysis (negations, concessive clauses, word order).
+*  **[PlantCare](https://github.com/Icecreemka/PlantCare)**
+  * **Stack:** Kotlin, Jetpack Compose, Room, Retrofit, WorkManager.
+  * **Details:** An Android app for tracking houseplant watering and fertilizing schedules, combining pot/plant-based calculations with live weather data (Open-Meteo API) and a self-correcting personal factor based on user feedback ("dried out early" / "still moist").
 *  **[Smart Planner](https://github.com/Icecreemka/MyPlannerApp)**
   * **Stack:** Kotlin, Jetpack Compose, Room, MVVM.
   * **Details:** An Android application for flexible time management featuring dynamic schedule recalculation, drag-and-drop support, and custom time-slot distribution logic.
